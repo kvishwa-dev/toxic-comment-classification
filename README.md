@@ -3,7 +3,7 @@
 ## ⚙️ Run on your Local Machine
 ### 1️⃣ Clone the repository
 - git clone https://github.com/kvishwa-dev/toxic-comment-classification.git
-- cd machine-efficiency-prediction
+- cd toxic-comment-classification
 
 ### 2️⃣ Create virtual environment
 - python -m venv venv
