@@ -2,7 +2,7 @@
 
 ## ⚙️ Run on your Local Machine
 ### 1️⃣ Clone the repository
-- git clone https://github.com/kvishwa-dev/machine-efficiency-prediction.git
+- git clone https://github.com/kvishwa-dev/toxic-comment-classification.git
 - cd machine-efficiency-prediction
 
 ### 2️⃣ Create virtual environment
